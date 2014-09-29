@@ -20,6 +20,7 @@ github pages + ajax + markdowm
 - 克隆本项目
 - 有些需要自定义的部分请修改
 - 将代码复制到你的github pages 下的指定目录即可
+- 在posts目录目录添加md文件，并在index.md添加链接
 
 #优点
 
