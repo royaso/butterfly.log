@@ -23,6 +23,7 @@ github pages + ajax + markdowm
 
 #优点
 
+- 不依赖本地repo
 - 智能一级标题导航
 - 所有文章都用markdown编写
 - ui完全可以自主定制
@@ -31,3 +32,7 @@ github pages + ajax + markdowm
 #缺陷
 
 可能不支持seo
+
+#协议
+
+遵循MIT协议
