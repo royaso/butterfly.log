@@ -34,19 +34,8 @@ github pages + ajax + markdowm
 可能不支持seo
 
 #支持评论
-你可以添加第三方评论，例如disqus
+你可以添加第三方评论，例如disqus，参考<https://github.com/gowithwind/gowithwind.github.io/blob/master/blog/index.html>
 
-  <div id="disqus_thread"></div>
-  <script type="text/javascript">
-      /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
-      var disqus_shortname = 'gowithwind'; // required: replace example with your forum shortname
-      /* * * DON'T EDIT BELOW THIS LINE * * */
-      (function() {
-          var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-          dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
-          (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-      })();
-  </script>  
 
 #协议
 
