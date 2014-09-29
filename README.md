@@ -34,7 +34,9 @@ github pages + ajax + markdowm
 可能不支持seo
 
 #支持评论
-你可以添加第三方评论，例如disqus，参考<https://github.com/gowithwind/gowithwind.github.io/blob/master/blog/index.html>
+你可以添加第三方评论，例如disqus
+
+参考<https://github.com/gowithwind/gowithwind.github.io/blob/master/blog/index.html>
 
 
 #协议
