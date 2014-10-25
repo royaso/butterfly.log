@@ -16,5 +16,9 @@
 
 ![image test](http://github.com/royaso/butterfly.log/raw/gh-pages/pic/alison.jpg)
 
+
+
 - [新的文章](https://github.com/royaso/butterfly.log/new/master/blog)
 
+another picture 
+![image test](https://cloud.githubusercontent.com/assets/2331406/4779877/90e5f25e-5c4b-11e4-8e3e-5019a39487a2.jpg)
