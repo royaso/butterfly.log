@@ -13,5 +13,8 @@
 #链接
 
 - [上传图片到github issues](https://github.com/royaso/butterfly.log/issues)
+
+![image test](http://github.com/royaso/butterfly.log/raw/gh-pages/pic/alison.jpg)
+
 - [新的文章](https://github.com/royaso/butterfly.log/new/master/blog)
 
