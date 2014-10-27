@@ -7,6 +7,8 @@ butterfly.log
 
 from submodul
 
+edit from web
+
 [示例博客](http://gowithwind.github.io/blog/)
 
 #初心
