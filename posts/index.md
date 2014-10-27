@@ -8,6 +8,7 @@
 #技术
 + [vim 学习](index.html?vim-learn)
 + [骗人的链接](index.html?links-can-fool)
+- [源码编译生成deb包](index.html?create-a-deb)
 
 #生活
 
