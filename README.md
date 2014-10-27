@@ -5,6 +5,8 @@ butterfly.log
 
 >蝴蝶很美，但起于丑陋，代码虽简，但始于行下
 
+from submodul
+
 [示例博客](http://gowithwind.github.io/blog/)
 
 #初心
