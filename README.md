@@ -4,6 +4,7 @@ butterfly.log
 >Everyone is like a butterfly, they start out ugly and awkward and then morph into beautiful graceful butterflies that everyone loves. 
 
 >蝴蝶很美，但起于丑陋，代码虽简，但始于行下
+>蝴蝶很美，但起于丑陋，代码虽简，但始于行下
 
 [示例博客](http://gowithwind.github.io/blog/)
 
